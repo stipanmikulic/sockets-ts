@@ -1,0 +1,4 @@
+[submodule "libs/web"]
+	path = libs/web
+	url = https://github.com/superbet-group/dot-country-web.client
+	branch = web-for-rba
